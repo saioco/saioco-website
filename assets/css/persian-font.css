@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'persian-font';
+	font-weight: normal;
+	font-style: normal;
+	src: url( '../fonts/persian-font/persian-font.eot' );
+	src: url( '../fonts/persian-font/persian-font.eot?#iefix' ) format( 'embedded-opentype' ),
+		url( '../fonts/persian-font/persian-font.woff2' ) format( 'woff2' ),
+		url( '../fonts/persian-font/persian-font.woff' ) format( 'woff' ),
+		url( '../fonts/persian-font/persian-font.ttf' ) format( 'truetype' ),
+		url( '../fonts/persian-font/persian-font.svg#persian-font' ) format( 'svg' );
+}
